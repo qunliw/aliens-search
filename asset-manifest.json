@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/qunliw/aliens-search/static/css/main.708193ea.css",
-    "main.js": "/qunliw/aliens-search/static/js/main.77fdd334.js",
-    "static/js/787.0f18c4c9.chunk.js": "/qunliw/aliens-search/static/js/787.0f18c4c9.chunk.js",
-    "index.html": "/qunliw/aliens-search/index.html",
-    "main.708193ea.css.map": "/qunliw/aliens-search/static/css/main.708193ea.css.map",
-    "main.77fdd334.js.map": "/qunliw/aliens-search/static/js/main.77fdd334.js.map",
-    "787.0f18c4c9.chunk.js.map": "/qunliw/aliens-search/static/js/787.0f18c4c9.chunk.js.map"
+    "main.css": "/aliens-search/static/css/main.708193ea.css",
+    "main.js": "/aliens-search/static/js/main.91da6844.js",
+    "static/js/787.0f18c4c9.chunk.js": "/aliens-search/static/js/787.0f18c4c9.chunk.js",
+    "index.html": "/aliens-search/index.html",
+    "main.708193ea.css.map": "/aliens-search/static/css/main.708193ea.css.map",
+    "main.91da6844.js.map": "/aliens-search/static/js/main.91da6844.js.map",
+    "787.0f18c4c9.chunk.js.map": "/aliens-search/static/js/787.0f18c4c9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.708193ea.css",
-    "static/js/main.77fdd334.js"
+    "static/js/main.91da6844.js"
   ]
 }
